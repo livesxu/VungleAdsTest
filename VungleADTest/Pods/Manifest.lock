@@ -1,0 +1,20 @@
+PODS:
+  - ReactiveObjC (3.1.0)
+  - VungleSDK-iOS (6.2.0)
+
+DEPENDENCIES:
+  - ReactiveObjC
+  - VungleSDK-iOS
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReactiveObjC
+    - VungleSDK-iOS
+
+SPEC CHECKSUMS:
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  VungleSDK-iOS: a8665f4e826ad688135429f4618df4235f8738c7
+
+PODFILE CHECKSUM: f922437ab7a02750031aeb38fea1715809858b68
+
+COCOAPODS: 1.5.3
